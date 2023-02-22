@@ -1,0 +1,12 @@
+.main_container {
+  background-color: #0e122c;
+  color: white;
+}
+.book_details {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  margin-left: 20px;
+  margin-top: 15px;
+}
